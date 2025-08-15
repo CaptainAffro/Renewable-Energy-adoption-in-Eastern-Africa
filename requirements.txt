@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+pycountry
+sqlalchemy
+geopandas
+rasterio
+matplotlib
+seaborn
+plotly
+jupyterlab
+python-dotenv
